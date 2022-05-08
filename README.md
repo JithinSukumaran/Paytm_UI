@@ -1,5 +1,5 @@
 # Paytm_UI
-Paytm home page.
+Paytm home page using basic html.
 
 Tech Stack:
 1. Html
